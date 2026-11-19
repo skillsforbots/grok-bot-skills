@@ -25,6 +25,8 @@ Read the Important section at the top of the [starter skill](skills/bot-safety-r
 
 **[Bot Safety Rules Starter](skills/bot-safety-rules-starter/)** — Standing safety rules for any bot: no sending email or messages without owner approval, no spending money, and a one-time "send this" or "pay this" is approval for that item only, not a standing waiver. Includes a blank structured handoff note so work can move between bots without dropping context.
 
+Also on Agensi: [Bot Safety Rules Starter](https://www.agensi.io/skills/bot-safety-rules-starter).
+
 The free skill in this repository is released under the [MIT License](LICENSE).
 
 ## Premium packs
