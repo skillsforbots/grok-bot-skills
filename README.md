@@ -18,6 +18,9 @@ A bot skill is a `SKILL.md` file: standing instructions, rules, and copy-paste p
 
 More detail is in the [starter skill README](skills/bot-safety-rules-starter/README.md).
 
+Read the Important section at the top of the [starter skill](skills/bot-safety-rules-starter/SKILL.md) before you rely on these rules.
+
+
 ## Free skill in this repo
 
 **[Bot Safety Rules Starter](skills/bot-safety-rules-starter/)** — Standing safety rules for any bot: no sending email or messages without owner approval, no spending money, and a one-time "send this" or "pay this" is approval for that item only, not a standing waiver. Includes a blank structured handoff note so work can move between bots without dropping context.
