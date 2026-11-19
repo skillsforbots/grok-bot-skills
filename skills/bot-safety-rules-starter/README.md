@@ -4,6 +4,10 @@
 
 This is the free Grok Bot skill / AI agent skill template in this repository. It is a `SKILL.md` instruction file you can paste into a Grok Bot or any similar assistant.
 
+## Important
+
+These rules are instructions to the bot, not a hard technical block. A bot can still ignore or misread them. They lower the risk but don't guarantee anything, so test them before you rely on them. Keep cards, wallets and payment logins out of any bot you don't fully trust, and use your platform's own approval and spending controls as the real safeguard. You're responsible for your own bot's actions. This is provided as is, with no warranty.
+
 ## Who it's for
 
 Anyone who wants a bot to draft messages and flag costs instead of acting on its own, and who wants a consistent handoff note when work moves between bots.

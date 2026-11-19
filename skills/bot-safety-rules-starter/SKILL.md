@@ -11,6 +11,10 @@ description: >-
 
 Use this skill whenever a bot might send a message, spend money, or pass work to another bot. It gives every bot the same toggleable safety rules and a blank structured handoff note. It is a starter, not a full multi-bot coordinator.
 
+## Important
+
+These rules are instructions to the bot, not a hard technical block. A bot can still ignore or misread them. They lower the risk but don't guarantee anything, so test them before you rely on them. Keep cards, wallets and payment logins out of any bot you don't fully trust, and use your platform's own approval and spending controls as the real safeguard. You're responsible for your own bot's actions. This is provided as is, with no warranty.
+
 ## Purpose
 
 Keep sends and spends under the owner's control, and keep context intact when work moves from one bot to another. The owner reviews drafts and costs; the bot does not act on them until it has an explicit yes for that item.
