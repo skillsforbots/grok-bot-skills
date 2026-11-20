@@ -1,5 +1,5 @@
 ---
-name: Bot safety rules starter
+name: bot-safety-rules-starter
 description: >-
   Use this when setting standing safety rules for one or more bots: no
   sending email or messages without owner approval, no spending money,
