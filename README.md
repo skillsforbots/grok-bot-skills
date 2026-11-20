@@ -2,7 +2,7 @@
 
 Free [Grok Bot](https://grok.com) skill templates and AI agent skill templates in `SKILL.md` format. A skill is an instruction file a Grok Bot or similar AI assistant follows so it behaves the same way every time.
 
-This repository includes one free starter skill you can install in about five minutes. Premium packs for a multi-bot / bot fleet coordinator, nag-until-cleared reminders and routines, and a credit coach are sold separately.
+This repository includes two free skills you can install in about five minutes each. Premium packs for a multi-bot / bot fleet coordinator, nag-until-cleared reminders and routines, and a credit coach are sold separately.
 
 ## What a skill is
 
@@ -21,13 +21,15 @@ More detail is in the [starter skill README](skills/bot-safety-rules-starter/REA
 Read the Important section at the top of the [starter skill](skills/bot-safety-rules-starter/SKILL.md) before you rely on these rules.
 
 
-## Free skill in this repo
+## Free skills in this repo
 
 **[Bot Safety Rules Starter](skills/bot-safety-rules-starter/)** — Standing safety rules for any bot: no sending email or messages without owner approval, no spending money, and a one-time "send this" or "pay this" is approval for that item only, not a standing waiver. Includes a blank structured handoff note so work can move between bots without dropping context.
 
 Also on Agensi: [Bot Safety Rules Starter](https://www.agensi.io/skills/bot-safety-rules-starter).
 
-The free skill in this repository is released under the [MIT License](LICENSE).
+**[Reminder Basics](skills/reminder-basics/)** — One reminder that comes back every day until you clearly say it's done. "Thanks," "ok," and "I'm working on it" don't stop it; "done" does. Free version: one item and one daily time. The full [Nag-Until-Cleared Reminders](https://skillsforbots.gumroad.com/l/hdqoqb) pack adds a list of to-dos, other schedules, and chat commands to edit, pause, or show items.
+
+The free skills in this repository are released under the [MIT License](LICENSE).
 
 ## Premium packs
 
@@ -40,4 +42,4 @@ These packs are sold separately on Gumroad under their own terms. They are not c
 
 ## License
 
-The free Bot Safety Rules Starter skill in this repository is MIT-licensed. The premium packs above are sold separately under their own terms and are not included in this repo.
+The free skills in this repository (Bot Safety Rules Starter and Reminder Basics) are MIT-licensed. The premium packs above are sold separately under their own terms and are not included in this repo.
