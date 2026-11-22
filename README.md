@@ -41,10 +41,10 @@ The free skills in this repository are released under the [MIT License](LICENSE)
 
 These packs are sold separately on Gumroad under their own terms. They are not covered by this repository's MIT License.
 
-- **[Bot Fleet Coordinator](https://skillsforbots.gumroad.com/l/ergple)** — $19. One primary bot routes every task to the right specialist, writes a structured handoff, and follows no-send / no-spend rules, with a weekly read-only review of the fleet.
-- **[Nag-Until-Cleared Reminders](https://skillsforbots.gumroad.com/l/hdqoqb)** — $17. Reminders and routines that keep coming back until you clearly say an item is done — not when a date passes, and not when you mention it in passing.
-- **[Credit Repair Coach](https://skillsforbots.gumroad.com/l/ifujn)** — $24. A daily or on-demand brief with today's top 3 credit moves, impact figures labeled as estimates, and letter drafts you review and send yourself. Educational only. Not financial advice, not legal advice, and not credit repair company services. No results are promised.
-- **[Bot Owner Starter Bundle](https://skillsforbots.gumroad.com/l/vxecie)** — $39. All three packs together.
+- **[Bot Fleet Coordinator](https://skillsforbots.gumroad.com/l/ergple)** — $12. One primary bot routes every task to the right specialist, writes a structured handoff, and follows no-send / no-spend rules, with a weekly read-only review of the fleet.
+- **[Nag-Until-Cleared Reminders](https://skillsforbots.gumroad.com/l/hdqoqb)** — $9. Reminders and routines that keep coming back until you clearly say an item is done — not when a date passes, and not when you mention it in passing.
+- **[Credit Repair Coach](https://skillsforbots.gumroad.com/l/ifujn)** — $12. A daily or on-demand brief with today's top 3 credit moves, impact figures labeled as estimates, and letter drafts you review and send yourself. Educational only. Not financial advice, not legal advice, and not credit repair company services. No results are promised.
+- **[Bot Owner Starter Bundle](https://skillsforbots.gumroad.com/l/vxecie)** — $19. The Bot Fleet Coordinator, Nag-Until-Cleared Reminders, and Credit Repair Coach in one download (saves $14 vs $33 separately).
 
 ## License
 
