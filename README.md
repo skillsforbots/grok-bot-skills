@@ -2,7 +2,7 @@
 
 Free [Grok Bot](https://grok.com) skill templates and AI agent skill templates in `SKILL.md` format. A skill is an instruction file a Grok Bot or similar AI assistant follows so it behaves the same way every time.
 
-This repository includes two free skills you can install in about five minutes each. Premium packs for a multi-bot / bot fleet coordinator, nag-until-cleared reminders and routines, and a credit coach are sold separately.
+This repository includes three free skills you can install in about five minutes each. Premium packs for a multi-bot / bot fleet coordinator, nag-until-cleared reminders and routines, and a credit coach are sold separately.
 
 ## What a skill is
 
@@ -31,6 +31,10 @@ Also on Agensi: [Bot Safety Rules Starter](https://www.agensi.io/skills/bot-safe
 
 Also on Agensi: [Reminder Basics](https://www.agensi.io/skills/reminder-basics).
 
+**[Usage Reset Sprint](skills/usage-reset-sprint/)** — Use leftover usage on a project right before a usage or token limit resets: check remaining usage and the reset time, finish the highest-value chunk that fits, and leave a handoff so work can resume after the reset. The bot does not buy credits, spend money, or send messages to get more usage.
+
+Also on Agensi: [Usage Reset Sprint](https://www.agensi.io/skills/usage-reset-sprint).
+
 The free skills in this repository are released under the [MIT License](LICENSE).
 
 ## Premium packs
@@ -44,4 +48,4 @@ These packs are sold separately on Gumroad under their own terms. They are not c
 
 ## License
 
-The free skills in this repository (Bot Safety Rules Starter and Reminder Basics) are MIT-licensed. The premium packs above are sold separately under their own terms and are not included in this repo.
+The free skills in this repository (Bot Safety Rules Starter, Reminder Basics, and Usage Reset Sprint) are MIT-licensed. The premium packs above are sold separately under their own terms and are not included in this repo.
