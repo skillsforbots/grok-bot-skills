@@ -29,6 +29,8 @@ Also on Agensi: [Bot Safety Rules Starter](https://www.agensi.io/skills/bot-safe
 
 **[Reminder Basics](skills/reminder-basics/)** — One reminder that comes back every day until you clearly say it's done. "Thanks," "ok," and "I'm working on it" don't stop it; "done" does. Free version: one item and one daily time. The full [Nag-Until-Cleared Reminders](https://skillsforbots.gumroad.com/l/hdqoqb) pack adds a list of to-dos, other schedules, and chat commands to edit, pause, or show items.
 
+Also on Agensi: [Reminder Basics](https://www.agensi.io/skills/reminder-basics).
+
 The free skills in this repository are released under the [MIT License](LICENSE).
 
 ## Premium packs
