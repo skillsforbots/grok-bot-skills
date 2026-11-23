@@ -4,7 +4,7 @@ Free [Grok Bot](https://grok.com) skill templates and AI agent skill templates i
 
 This repository includes three free skills you can install in about five minutes each. Premium packs for a multi-bot / bot fleet coordinator, nag-until-cleared reminders and routines, and a credit coach are sold separately.
 
-Guides, pack details, and setup help are on my site: [Skills for Bots: Grok Bot skills](https://skillsforbots.github.io/).
+Guides, pack details, and setup help are on my site: [Skills for Bots: Grok Bot skills](https://skillsforbots.com/).
 
 ## What a skill is
 
